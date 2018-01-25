@@ -1,0 +1,15 @@
+{
+  "name": "krauni-ssh",
+  "version": "0.1.0",
+  "author": "krauni",
+  "summary": "this for ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/kraunikumar/puppet-module.git",
+  "project_page": "https://github.com/kraunikumar/puppet-module",
+  "issues_url": "https://github.com/kraunikumar/puppet-module/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
